@@ -1,0 +1,43 @@
+D:\vb.net\gshop1\gshop1\obj\Debug\gshop1.vbproj.GenerateResource.Cache
+D:\vb.net\gshop1\gshop1\bin\Debug\MySql.Data.dll
+D:\vb.net\gshop1\gshop1\bin\Debug\Google.Protobuf.dll
+D:\vb.net\gshop1\gshop1\bin\Debug\Renci.SshNet.dll
+D:\vb.net\gshop1\gshop1\bin\Debug\BouncyCastle.Crypto.dll
+D:\vb.net\gshop1\gshop1\bin\Debug\MySql.Data.xml
+D:\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.exe.config
+D:\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.exe
+D:\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.pdb
+D:\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.xml
+D:\vb.net\gshop1\gshop1\obj\Debug\gshop1.vbprojResolveAssemblyReference.cache
+D:\vb.net\gshop1\gshop1\obj\Debug\Invoice.Form1.resources
+D:\vb.net\gshop1\gshop1\obj\Debug\Invoice.Form2.resources
+D:\vb.net\gshop1\gshop1\obj\Debug\Invoice.Resources.resources
+D:\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.exe
+D:\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.xml
+D:\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.pdb
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.exe.config
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.exe
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.xml
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.pdb
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.exe
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.pdb
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.xml
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\MySql.Data.dll
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\Renci.SshNet.dll
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\bin\Debug\MySql.Data.xml
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\gshop1.vbprojResolveAssemblyReference.cache
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\Invoice.Form1.resources
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\Invoice.Form2.resources
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\Invoice.Resources.resources
+C:\Users\Ashutosh\Desktop\project\vb.net\gshop1\gshop1\obj\Debug\gshop1.vbproj.GenerateResource.Cache
+D:\Assignments\project\vb.net\gshop1\gshop1\bin\Debug\SGK Billing.exe.config
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.exe
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.xml
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\SGK Billing.pdb
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\gshop1.vbprojResolveAssemblyReference.cache
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\Invoice.Form1.resources
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\Invoice.Form2.resources
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\Invoice.Resources.resources
+D:\Assignments\project\vb.net\gshop1\gshop1\obj\Debug\gshop1.vbproj.GenerateResource.Cache
